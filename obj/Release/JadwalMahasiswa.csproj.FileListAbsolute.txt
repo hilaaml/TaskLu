@@ -1,0 +1,11 @@
+C:\Users\Sahi\source\repos\hilaaml\JadwalMahasiswa\bin\Release\JadwalMahasiswa.exe.config
+C:\Users\Sahi\source\repos\hilaaml\JadwalMahasiswa\bin\Release\JadwalMahasiswa.exe
+C:\Users\Sahi\source\repos\hilaaml\JadwalMahasiswa\bin\Release\JadwalMahasiswa.pdb
+C:\Users\Sahi\source\repos\hilaaml\JadwalMahasiswa\obj\Release\JadwalMahasiswa.csproj.AssemblyReference.cache
+C:\Users\Sahi\source\repos\hilaaml\JadwalMahasiswa\obj\Release\JadwalMahasiswa.FormLogin.resources
+C:\Users\Sahi\source\repos\hilaaml\JadwalMahasiswa\obj\Release\JadwalMahasiswa.FormMain.resources
+C:\Users\Sahi\source\repos\hilaaml\JadwalMahasiswa\obj\Release\JadwalMahasiswa.Properties.Resources.resources
+C:\Users\Sahi\source\repos\hilaaml\JadwalMahasiswa\obj\Release\JadwalMahasiswa.csproj.GenerateResource.cache
+C:\Users\Sahi\source\repos\hilaaml\JadwalMahasiswa\obj\Release\JadwalMahasiswa.csproj.CoreCompileInputs.cache
+C:\Users\Sahi\source\repos\hilaaml\JadwalMahasiswa\obj\Release\JadwalMahasiswa.exe
+C:\Users\Sahi\source\repos\hilaaml\JadwalMahasiswa\obj\Release\JadwalMahasiswa.pdb
