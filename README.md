@@ -4,6 +4,8 @@ TaskLu adalah aplikasi desktop yang dirancang untuk membantu mahasiswa dalam men
 
 ## Fitur
 
+https://github.com/user-attachments/assets/e61d876e-549a-4ff8-9bfe-430961509653
+
 - **Autentikasi Pengguna**: Pengguna dapat melakukan login sebagai admin atau user.
 - **Manajemen Jadwal**: 
   - Admin dapat mengelola semua jadwal kuliah.
